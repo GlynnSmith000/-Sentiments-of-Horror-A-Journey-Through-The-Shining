@@ -14,7 +14,7 @@ Sentiment analysis was conducted using the SentimentIntensityAnalyzer from the `
 - Weak Negative
 - Strong Negative
 
-This classification helps to understand how the emotional tone shifts across the chapters.
+This classification helps to understand how the emotional tone shifts across the chapters. Further analysis was conducted on each chapter by calculating the average compound score for each paragraph in the given chapter. The chapter's paragraph were classified into the same sentiment categories.
 
 ## 3. **Topic Modeling (LDA)**
 I thought it would be cool to try to find the topics for each paragraph. Latent Dirichlet Allocation (LDA) was applied to uncover the underlying topics in *The Shinning*. The text of each chapter was then processed further by removing stopwords, punctuation, and applying lemmatization. After preprocessing, a dictionary and document-term matrix were created, and the LDA model was trained to identify the main topics in the text. The model generated a set of topics, each represented by a collection of words that frequently co-occur in the text. The results were visualized using pyLDAvis, which provides an interactive visualization to explore the topics, their relationships, and the chapters belonging to the topic clusters. 
