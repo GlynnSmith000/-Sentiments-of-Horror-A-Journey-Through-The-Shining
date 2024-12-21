@@ -27,9 +27,9 @@ In addition to chapter-level sentiment analysis, sentiment was analyzed at the p
 
 
 
-# The Shining Sentiment Analysis Visualization
+# The Shinning Sentiment Analysis Visualization
 
-You can access the visualization by following this link: [The Shining Sentiment Analysis](https://the-shinning-sentiment-analysis.onrender.com).
+You can access the visualization by following this link: [The Shinning Sentiment Analysis](https://the-shinning-sentiment-analysis.onrender.com).
 
 ## Top Graph:
 The top graph displays the **average compound sentence score** for each of the 58 chapters. The **y-axis** represents the average compound score, while the **x-axis** shows the chapter numbers.
