@@ -1,0 +1,21 @@
+Paragraph Number,Compound Score,Classification
+1,0.0,Neutral
+2,0.9364,Strong Positive
+3,0.9732,Strong Positive
+4,0.7096,Strong Positive
+5,0.8735,Strong Positive
+6,0.836,Strong Positive
+7,0.9307,Strong Positive
+8,-0.5809,Strong Negative
+9,-0.9523,Strong Negative
+10,0.5994,Strong Positive
+11,-0.7622,Strong Negative
+12,-0.0762,Neutral
+13,0.91,Strong Positive
+14,0.7184,Strong Positive
+15,0.9153,Strong Positive
+16,-0.0772,Neutral
+17,-0.7906,Strong Negative
+18,-0.7622,Strong Negative
+19,0.7301,Strong Positive
+20,-0.34,Weak Negative

@@ -1,0 +1,51 @@
+Paragraph Number,Compound Score,Classification
+1,0.0,Neutral
+2,-0.128,Weak Negative
+3,0.6797,Strong Positive
+4,0.6705,Strong Positive
+5,0.9951,Strong Positive
+6,0.9763,Strong Positive
+7,-0.9127,Strong Negative
+8,-0.7103,Strong Negative
+9,0.4215,Weak Positive
+10,-0.4118,Weak Negative
+11,-0.99,Strong Negative
+12,-0.818,Strong Negative
+13,-0.743,Strong Negative
+14,0.3736,Weak Positive
+15,0.25,Weak Positive
+16,-0.7424,Strong Negative
+17,-0.25,Weak Negative
+18,-0.9462,Strong Negative
+19,-0.7909,Strong Negative
+20,0.3182,Weak Positive
+21,0.8462,Strong Positive
+22,0.4767,Weak Positive
+23,-0.5719,Strong Negative
+24,-0.3549,Weak Negative
+25,0.5994,Strong Positive
+26,-0.8723,Strong Negative
+27,-0.4738,Weak Negative
+28,-0.9426,Strong Negative
+29,-0.5023,Strong Negative
+30,-0.6486,Strong Negative
+31,0.5859,Strong Positive
+32,-0.4745,Weak Negative
+33,0.0,Neutral
+34,0.7851,Strong Positive
+35,0.9935,Strong Positive
+36,0.6889,Strong Positive
+37,0.8981,Strong Positive
+38,0.2664,Weak Positive
+39,0.8844,Strong Positive
+40,-0.7149,Strong Negative
+41,-0.5574,Strong Negative
+42,0.9861,Strong Positive
+43,0.1154,Weak Positive
+44,0.0,Neutral
+45,-0.6754,Strong Negative
+46,0.7059,Strong Positive
+47,-0.4784,Weak Negative
+48,0.0,Neutral
+49,0.9041,Strong Positive
+50,0.7845,Strong Positive
