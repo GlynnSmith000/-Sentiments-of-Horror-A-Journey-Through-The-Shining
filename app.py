@@ -54,7 +54,7 @@ main_fig.update_layout(
         tickvals=allchapters['Chapter Number'].unique(),
         range=[allchapters['Chapter Number'].min(), allchapters['Chapter Number'].max()],
         tickangle=-45,
-        tickfont=dict(size=12, family='Arial', weight='bold'),
+        tickfont=dict(size=12, family='Arial, sans-serif'),
     ),
     shapes=[dict(
         type='line',
@@ -117,7 +117,7 @@ def update_detail_graph(click_data):
                     tickmode='array',
                     tickvals=ch_df['Paragraph Number'].unique(),
                     tickangle=-45,
-                    tickfont=dict(size=12, family='Arial', weight='bold'),
+                    tickfont=dict(size=12, family='Arial, sans-serif'),
                     range=[ch_df['Paragraph Number'].min(), ch_df['Paragraph Number'].max()]
                 ),
                 shapes=[dict(
