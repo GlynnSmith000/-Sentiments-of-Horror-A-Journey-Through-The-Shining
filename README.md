@@ -24,3 +24,5 @@ To visualize the sentiment trends, a line plot was created showing the average s
 
 ## 5. **Paragraph-Level Sentiment Analysis**
 In addition to chapter-level sentiment analysis, sentiment was analyzed at the paragraph level to provide a more granular view of the emotional tone. Each paragraph in the chapters was processed, and a sentiment score was assigned to it. These results were stored in a structured format, allowing for further exploration of how the sentiment varies within individual chapters and scenes.
+
+To visualize the data, download 'allchapters.csv', the 'chapter_paragraphs' folder, and the .ipynb. Just run the code in the **Visualizing the sentiment data** section.
