@@ -30,7 +30,7 @@ main_fig = px.line(
     x='Chapter Number', 
     y='Average Compound Score', 
     markers=True, 
-    title="<i>The Shining</i><br>Sentiment Breakdown by Chapter"
+    title="<i>The Shinning</i><br>Sentiment Breakdown by Chapter"
 )
 
 # Add hover info
