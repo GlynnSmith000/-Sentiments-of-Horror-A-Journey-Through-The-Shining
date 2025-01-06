@@ -1,4 +1,4 @@
-# Sentiment Analysis and Topic Modeling on *The Shinning* (Stephen King)
+# Sentiments of Horror: A Journey Through The Shinning* (Stephen King)
 
 This notebook analyzes the text of *The Shinning* by Stephen King through two main techniques: sentiment analysis and topic modeling. Below is an outline of the steps taken throughout the analysis.
 
