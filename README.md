@@ -44,3 +44,11 @@ After clicking on a data point in the top graph, the bottom graph will display t
 
 - **Hover over the data points** in this graph to view the same information (chapter number, compound score, and sentiment classification) as in the top graph.
 
+
+# Future Improvements
+
+## Additional layers of specificity
+Currently this project only looks at the chapter and paragrah level of the book. I think it would be interesting to then look at the sentence and word level as well. This would allow the user to see what specific sentences or words contribute to a specific sentiment score (depending on what layer they are looking at). 
+
+## New visualization
+Visualizing sentiment for long form text comes with its struggles. While I did try my best, there is room for improvement. I plan on changing the current visualization to more of a bar graph visualization. The height of a given bar would represent the length of text (could be chapter, paragraph, or sentence). The hue would represent the sentiment with brightness representing the sentiment variance. 
